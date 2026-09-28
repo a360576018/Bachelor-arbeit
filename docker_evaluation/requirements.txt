@@ -1,0 +1,5 @@
+anomalib==2.2.0
+lightning>=2.5,<2.6
+pandas==2.2.3
+psutil>=6.0,<8.0
+requests>=2.31,<3
