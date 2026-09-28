@@ -1,0 +1,16 @@
+category,classification,all_num_train_images,rho_0.90_k_0,rho_0.90_k_0.5,rho_0.90_k_1,rho_0.95_k_0,rho_0.95_k_0.5,rho_0.95_k_1,rho_0.99_k_0,rho_0.99_k_0.5,rho_0.99_k_1
+bottle,one_shot,209,1,1,1,1,1,1,1,2,2
+cable,knee_point,224,30,30,30,30,50,50,112,168,224
+capsule,knee_point,219,50,54,109,109,164,164,219,219,219
+carpet,one_shot,280,1,1,1,1,1,1,1,5,15
+grid,knee_point,264,50,50,66,66,132,132,198,264,264
+hazelnut,knee_point,391,15,15,15,15,15,15,15,15,15
+leather,one_shot,245,1,1,1,1,1,1,1,1,1
+metal_nut,knee_point,220,15,15,15,15,15,15,55,110,110
+pill,knee_point,267,30,30,30,30,66,133,200,267,267
+screw,knee_point,320,160,160,160,160,240,240,240,320,320
+tile,one_shot,230,1,1,1,1,1,1,1,1,1
+toothbrush,knee_point,60,15,15,15,15,15,20,30,50,60
+transistor,knee_point,213,15,15,15,15,15,15,30,30,50
+wood,one_shot,247,1,1,1,1,1,1,15,30,61
+zipper,knee_point,240,30,30,30,30,30,30,120,120,180
